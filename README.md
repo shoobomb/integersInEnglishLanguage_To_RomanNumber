@@ -1,9 +1,10 @@
 # IntegersInEnglishLanguage_To_RomanNumbers
-Python Code To Convert Any Positive Integer in English Language To Roman Numbers
+Python Code To Convert Any Positive Integer in English Language To A Roman Number....
+
 
 List Of Files In The Repository - 
 
-1. Question.txt : It contains the description of thr Question.
+1. Question.txt : It contains the description of the Question.
 
 2. in2roman.in : This is the input file for Question. The code is written such that it fetches the number of test cases from the input file for processing.
 
